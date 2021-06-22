@@ -1,0 +1,13 @@
+.main-nav {
+  background-color: #012345;
+}
+.home-btn {
+  color: #e1e1e1;
+
+  font-size: 20px;
+  font-weight: 900;
+  background-color: #012345;
+  border: 1px solid #e1e1e0;
+  border-radius: 8px;
+  width: 150px;
+}

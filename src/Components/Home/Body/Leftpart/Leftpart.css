@@ -1,0 +1,19 @@
+.profile-pic {
+  height: 50px;
+  width: 50px;
+  margin: 50px auto 50px;
+}
+.post-button {
+  font-weight: 900;
+  width: 100px;
+  height: 50px;
+  color: #fff;
+  border-radius: 7px;
+  background-color: #012345;
+}
+.account-info {
+  margin-top: 26rem;
+}
+.account-info > img {
+  margin: 0;
+}

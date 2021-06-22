@@ -1,0 +1,31 @@
+.follownow-main {
+  border-radius: 7px;
+  border: 1px solid #7c8d9d;
+  margin-top: 20px;
+  background-color: #fff;
+}
+.follownow-child {
+  border: 1px solid #7c8d9d;
+  font-weight: 900;
+}
+.pic {
+  height: 50px;
+  width: 50px;
+}
+.follow-btn {
+  height: 30px;
+  width: 60px;
+  border-radius: 9px;
+  background-color: #012345;
+  font-weight: 900;
+  color: #fff;
+}
+.follownow-heading {
+  font-weight: 900;
+  font: bold;
+}
+
+.showmore {
+  font-weight: 900;
+  font: bold;
+}

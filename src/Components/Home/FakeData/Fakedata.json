@@ -1,0 +1,62 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "logo": "faHome"
+    },
+    {
+      "name": "Explore World",
+      "logo": "faHashtag"
+    },
+    {
+      "name": "Notification",
+      "logo": "faBell"
+    },
+    {
+      "name": "Message",
+      "logo": "faEnvelope"
+    },
+    {
+      "name": "Communities",
+      "logo": "faUsers"
+    },
+    {
+      "name": "Business",
+      "logo": "faHandshake"
+    },
+    {
+      "name": "Profile",
+      "logo": "faUser"
+    },
+    {
+      "name": "More",
+      "logo": "faCommentDots"
+    }
+  ],
+  "friends": [
+    {
+      "name": "Sakib",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "name": "Rakib",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "name": "Selim",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "name": "Pranto",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "name": "Bijoy",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    },
+    {
+      "name": "Manik",
+      "photo": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80"
+    }
+  ]
+}

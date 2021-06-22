@@ -1,0 +1,13 @@
+.friends-card {
+  overflow: hidden;
+}
+.card-text {
+  overflow: hidden;
+}
+.card-footer {
+  overflow: hidden;
+}
+.friend-card-footer > p {
+  word-wrap: normal;
+  margin-top: 50px;
+}

@@ -1,0 +1,11 @@
+.post-article,
+.post-reaction {
+  margin-left: 50px;
+  margin-top: 05px;
+  font-size: 1rem;
+}
+.post-img {
+  margin-left: 50px;
+  height: 15rem;
+  width: 28vw;
+}
