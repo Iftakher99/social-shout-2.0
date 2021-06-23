@@ -1,6 +1,6 @@
 .follownow-main {
   border-radius: 7px;
-  border: 1px solid #7c8d9d;
+  border: 1px 0 solid #7c8d9d;
   margin-top: 20px;
   background-color: #fff;
 }
@@ -14,18 +14,15 @@
 }
 .follow-btn {
   height: 30px;
-  width: 60px;
+  width: 90px;
   border-radius: 9px;
   background-color: #012345;
   font-weight: 900;
   color: #fff;
 }
-.follownow-heading {
+.follownow-heading, .showmore-heading {
   font-weight: 900;
   font: bold;
+  padding: 8px 0 2px 5px;
 }
 
-.showmore {
-  font-weight: 900;
-  font: bold;
-}

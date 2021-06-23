@@ -5,7 +5,7 @@ import './TopFriends.css';
 
 const TopFriends = () => {
   return (
-    <div>
+    <div className='card-main'>
       <p className="text-center font-weight-bold">Top friends</p>
       <div className="d-flex friends-card">
         {Fakedata.friends.map((index, i) => (

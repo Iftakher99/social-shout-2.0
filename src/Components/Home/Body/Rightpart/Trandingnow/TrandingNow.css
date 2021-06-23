@@ -1,12 +1,14 @@
 .main-trandingnow {
   border-radius: 7px;
-  border: 1px solid #7c8d9d;
+  border: 1px 0 solid #7c8d9d;
   margin-top: 20px;
   background-color: #fff;
+ 
 }
 .trandingnow-heading {
   font-weight: 900;
   font: bold;
+  padding: 8px 0 3px 5px;
 }
 .tranding-div {
   border: 1px solid #7c8d9d;

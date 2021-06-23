@@ -2,14 +2,14 @@ import React from 'react';
 import Leftpart from './Leftpart/Leftpart';
 import Middlepart from './Middlepart/Middlepart';
 import Rightpart from './Rightpart/Rightpart';
-
+import './Body.css'
 const Body = () => {
   return (
     <div className="container">
       <div className="row d-flex flex-direction-column  ">
         <div
           style={{ backgroundColor: '#DEDEDE', height: '100vh' }}
-          className="col-3"
+          className="col-3 "
         >
           <Leftpart />
         </div>
@@ -20,7 +20,7 @@ const Body = () => {
           style={{ backgroundColor: '#DEDEDE', height: '100vh' }}
           className="col-3"
         >
-          <Rightpart />
+          <Rightpart className="rightpart"/>
         </div>
       </div>
     </div>

@@ -8,7 +8,7 @@ const icons = require('@fortawesome/free-solid-svg-icons');
 
 const Leftpart = () => {
   return (
-    <div className="mx-auto my-auto">
+    <div className="  left-menu">
       <img className="profile-pic" src={profilePic} alt="" />
 
       <div className="menu-items">

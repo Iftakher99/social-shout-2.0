@@ -23,7 +23,7 @@ const Middlepart = () => {
             src={profileImg}
             alt=""
           />
-          <h5 className="mt-4 ml-2">What are you thinking,Ariful?</h5>
+          <h5 className="mt-4 ">What are you thinking,Ariful?</h5>
         </div>
         <div className="d-flex justify-content-around">
           <div style={{ fontSize: '22px' }}>

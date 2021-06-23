@@ -11,3 +11,6 @@
   word-wrap: normal;
   margin-top: 50px;
 }
+.card-main{
+  border-top: 1px solid #dde4eb;
+}

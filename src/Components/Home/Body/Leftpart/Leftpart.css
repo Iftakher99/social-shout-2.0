@@ -17,3 +17,11 @@
 .account-info > img {
   margin: 0;
 }
+.left-menu{
+ margin-left:20px;
+
+}
+.left-menu>button {
+  width:100%;
+  height: 50%;
+}

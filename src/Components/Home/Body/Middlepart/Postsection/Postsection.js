@@ -24,9 +24,9 @@ const Postsection = () => {
           />
         </div>
         <div> </div>
-        <h5>Name</h5>
+        <h5>MD Abdullah</h5>
         <div className="d-flex ">
-          <h5 className="mx-2">Time</h5>
+          <h5 className="mx-2">7:09PM</h5>
           <FontAwesomeIcon className="mx-3" icon={faSearch} />
         </div>{' '}
       </div>
@@ -56,9 +56,9 @@ const Postsection = () => {
           />
         </div>
         <div> </div>
-        <h5>Name</h5>
+        <h5>Abu Selim</h5>
         <div className="d-flex ">
-          <h5 className="mx-2">Time</h5>
+          <h5 className="mx-2">8:05PM</h5>
           <FontAwesomeIcon className="mx-3" icon={faSearch} />
         </div>{' '}
       </div>
